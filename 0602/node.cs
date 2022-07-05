@@ -1,6 +1,0 @@
-//tree
-
-public class node
-{
-    
-}
