@@ -1,0 +1,13 @@
+img {
+  width: 30%;
+  margin: 1.66%;
+  padding: 2%;
+  float: left;
+  border-radius: 1000px;
+  shape-outside: circle();
+}
+
+p {
+  font-size: 20px;
+  text-align: justify;
+}
